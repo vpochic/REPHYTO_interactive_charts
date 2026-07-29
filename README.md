@@ -8,6 +8,7 @@ on phytoplankton diversity and community structure in French coastal waters" by 
 https://doi.org/10.1093/ismeco/ycag174
 
 The R script used to generate these figures can be found on J-YDi's github repository associated with the paper in question:
+https://github.com/J-YDi/Diatoms-vs-Dinoflagellates
 
 The data are from the REPHY survey: https://doi.org/10.17882/47248
 
