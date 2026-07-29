@@ -1,4 +1,4 @@
-🦠🥬 Interactive charts for visualising the evolution of phytoplankton communities 🍂🦠
+🦠🥬 **Interactive charts for visualising the evolution of phytoplankton communities** 🍂🦠
 
 This repository harbours interactive charts in the form of html files, to be displayed in a blog post on my blog Phycoplankton.fr
 The blog post in question: link
