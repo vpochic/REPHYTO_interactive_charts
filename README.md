@@ -1,6 +1,6 @@
-🦠🥬 **Interactive charts for visualising the evolution of phytoplankton communities** 🍂🦠
+🦠🥬 **Interactive charts for visualising multiyear dynamics of phytoplankton communities** 🍂🦠
 
-This repository harbours interactive charts in the form of html files, to be displayed in a blog post on my blog Phycoplankton.fr
+This repository harbours interactive charts in the form of html files, to be displayed in a blog post on my blog phycoplankton.fr.
 The blog post in question: link
 
 These charts are modified from Figure 2 in the article "Diatoms vs dinoflagellates: a temporal network analysis of bloom impacts 
