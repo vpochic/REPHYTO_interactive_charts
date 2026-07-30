@@ -1,7 +1,7 @@
 🦠🥬 **Interactive charts for visualising multiyear dynamics of phytoplankton communities** 🍂🦠
 
 This repository harbours interactive charts in the form of html files, to be displayed in a blog post on my blog phycoplankton.fr.
-The blog post in question: link
+The blog post in question: https://phycoplankton.fr/2026/07/30/visualising-16-years-of-phytoplankton-community-dynamics/
 
 These charts are modified from Figure 2 in the article "Diatoms vs dinoflagellates: a temporal network analysis of bloom impacts 
 on phytoplankton diversity and community structure in French coastal waters" by J.Y. Dias et al., published in ISME Communications in 2026:
